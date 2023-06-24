@@ -1,4 +1,4 @@
-# classification_clustering
+# Classification_Clustering
 This repository holds a few different practice projects in which I created popular models (from scratch, without using sklearn) to practice different methods.
 
 The first file containes 2 models created on a "Surfboards" class (forgive me, I was on my way to the Canaries).
