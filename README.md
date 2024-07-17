@@ -1,6 +1,11 @@
 # Classification_Clustering
-This repository holds a few different practice projects in which I created popular models (from scratch, without using sklearn) to practice different methods.
+This repository holds a few different practice projects in which I created popular ML models (from scratch, without using sklearn) to practice different methods.
 
-The first file containes 2 models created on a "Surfboards" class (forgive me, I was on my way to the Canaries).
+Some are compered to the method in Sci-Kit learn, other are examined seperatly.
 
-The second implements K-Means algorithm using Spark session to speed up it's calculations and task execution.
+You can find here:
+
+1. KMeans (Regular and distributed with Spark)
+2. KMedoids
+3. DBScan
+4. KNN
